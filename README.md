@@ -1,0 +1,2 @@
+# blog
+Practica de Git
